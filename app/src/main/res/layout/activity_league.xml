@@ -10,7 +10,7 @@
     <ImageView
             android:layout_width="0dp"
             android:layout_height="0dp" app:srcCompat="@drawable/desiredleaguebg"
-            android:id="@+id/imageView3" app:layout_constraintTop_toTopOf="parent"
+            android:id="@+id/next" app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
